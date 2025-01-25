@@ -1,6 +1,4 @@
 ### Dokumentasi saya dalam belajar dasar-dasar bahasa pemograman python.
 #### List catatan belajar saya
-- Variabel dan komentar
-- Tipe data (string, integer, float, boolean)
-- Operasi matematika dan manipulasi string
-- Input dari pengguna
+- [Intro](https://github.com/anungding/learn-python/blob/master/Dasar/intro.ipynb)
+- [Variabel dan komentar](https://github.com/anungding/learn-python/blob/master/Dasar/variabel_dan_komentar.ipynb)
